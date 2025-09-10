@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-api_key = "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"
+api_key = "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"
 
 client = OpenAI(
     api_key=api_key,
